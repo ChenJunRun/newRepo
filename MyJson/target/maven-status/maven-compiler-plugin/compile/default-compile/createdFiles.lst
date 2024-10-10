@@ -1,0 +1,5 @@
+com\deepblue\MyJsonService.class
+com\deepblue\Person.class
+com\deepblue\MyJsonProperties.class
+com\deepblue\MyJsonConfiguration.class
+META-INF\spring-configuration-metadata.json
